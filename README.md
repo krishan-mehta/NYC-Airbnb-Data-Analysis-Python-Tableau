@@ -121,20 +121,5 @@ An interactive dashboard was created using **Tableau** to analyze:
 ## 📷 Dashboard Snapshot
 
 > This dashboard was built using Tableau, showcasing layered insights about the NYC Airbnb landscape.
+> ![image](https://github.com/user-attachments/assets/51a54440-e998-447f-97e2-89f67c1ba62e)
 
----
-
-## 🚀 Future Work
-
-- Incorporate sentiment analysis on host reviews.  
-- Build a machine learning model to predict price or popularity.  
-- Add temporal dynamics to track changes year over year.  
-
----
-
-## 📬 Contact
-
-Feel free to reach out or contribute to this project!
-
-📧 your_email@example.com  
-🔗 [Your LinkedIn or GitHub Profile](https://github.com/yourusername)
