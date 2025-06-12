@@ -81,10 +81,6 @@ An interactive dashboard was created using **Tableau** to analyze:
 - **Manhattan** has the highest average price (£145.90), followed by **Brooklyn (£105.70)**.  
 - **Bronx** is the most affordable borough on average (£77.37).  
 
-### 👥 Host Popularity
-
-- **Yasu & Akiko** are the top hosts by total reviews, primarily located in **Hell’s Kitchen, Manhattan**.  
-
 ### 🛏️ Room Types
 
 - **Entire homes/apartments** receive the most bookings across all boroughs.  
@@ -122,4 +118,5 @@ An interactive dashboard was created using **Tableau** to analyze:
 
 > This dashboard was built using Tableau, showcasing layered insights about the NYC Airbnb landscape.
 > ![image](https://github.com/user-attachments/assets/51a54440-e998-447f-97e2-89f67c1ba62e)
+> [Link to My Dashboard](https://public.tableau.com/app/profile/krishan.mehta/viz/airbnb_17497241815260/Dashboard1#1)
 
