@@ -36,7 +36,7 @@ import pandas as pd
 import numpy as np
 
 # Load data
-df = pd.read_csv('AB_NYC_2019.csv')
+df = pd.read_xlsx('AB_NYC_2019.xlsx')
 
 # Replace blanks with No Host Name and No Name
 df['host_name'] = df['host_name'].fillna('No Host Name')
